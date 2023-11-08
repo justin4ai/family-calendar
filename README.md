@@ -1,5 +1,7 @@
 # Family Calendar
 
+![Calendar](https://github.com/AhnJunYeong0319/family-calendar/assets/63603383/f57cfbe5-cdc5-49e1-b054-33b4f216db58)
+
 This program is written in Java and PostgreSQL.
 
 
